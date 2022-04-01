@@ -155,8 +155,13 @@ header {
 .clients {
   gap: 5rem;
 }
+/* Tools End */
 
-/* Tools Start */
+/* Download Start */
+.download {
+  margin-bottom: 5rem;
+}
+/* Download End */
 
 /* Medium Screens */
 @media (min-width: 768px) {
