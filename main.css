@@ -92,10 +92,11 @@ a {
 
 /* Header Start */
 header {
-  padding: 4rem 0 1rem;
+  padding: 3rem 0;
   background-color: #fff;
   background-image: url(/images/bg-header-mobile.png);
   background-size: cover;
+  background-position: bottom;
   background-repeat: no-repeat;
 }
 .logo {
